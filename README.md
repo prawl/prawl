@@ -8,7 +8,7 @@
 
 I’m a software engineer whose passion lies in the art of automation. I relish the challenge of streamlining processes, often diving deep into code to shave seconds off everyday tasks—for me, that’s time well invested. See my toolkit below all wielded with precision to craft efficient and elegant solutions. Beyond coding, I harbor a love for the nostalgic pixels of old video games and the fascinating realm of AI programming.
 
-<h4 align="left">My Toolkit Includes:</h4>
+<h4 align="left">My Toolkit Includes</h4>
 <p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
