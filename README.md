@@ -2,7 +2,7 @@
 
 ---
 
-<img align="center" width="100%" height="100%" margin="5px" src="https://github.com/prawl/prawl/assets/3402498/2956368e-9ed6-4e86-be13-e23862389b68">
+<img align="center" width="100%" height="100%" margin="5px" src="https://github.com/prawl/prawl/assets/3402498/2de51b87-f5b5-4d2f-8006-a2c540928faa">
 
 ---
 
