@@ -8,3 +8,6 @@
 I’m a software engineer whose passion lies in the art of automation. I relish the challenge of streamlining processes, often diving deep into code to shave seconds off everyday tasks—for me, that’s time well invested. My toolkit includes ReactJS, Angular 16, Ruby on Rails, Python, JavaScript, TypeScript, and Tailwind, all wielded with precision to craft efficient and elegant solutions. Beyond coding, I harbor a love for the nostalgic pixels of old video games and the fascinating realm of AI programming.
 
 
+#### Get in Touch
+- **📫** ptyrawl@gmail.com
+- **⚡** https://www.linkedin.com/in/patrick-rawlings-6303b693/
